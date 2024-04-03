@@ -29,7 +29,7 @@
   <h2>Get Involved</h2>
   <p>We welcome contributions from the community! Whether you want to submit a project, suggest improvements, or share valuable resources, your input is highly appreciated. Let's collaborate to make this repository a valuable resource for everyone interested in machine learning.</p>
 
-  <h2>Connect With Us</h2>
-  <p>Join the conversation! Follow us on GitHub and stay updated with the latest additions and discussions. Feel free to reach out with any questions, feedback, or ideas. Let's learn and grow together in the fascinating world of machine learning!</p>
+  <h2>Connect With Me</h2>
+  <p>Join the conversation! Follow me on GitHub and stay updated with the latest additions and discussions. Feel free to reach out with any questions, feedback, or ideas. Let's learn and grow together in the fascinating world of machine learning!</p>
 </body>
 </html>
